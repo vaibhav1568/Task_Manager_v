@@ -1,0 +1,9 @@
+node_modules/
+.settings/
+.jshintrc
+.project
+.sublime-project
+.tern-project
+config/prod-db.json
+.vscode
+.env
